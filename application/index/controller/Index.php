@@ -5,7 +5,7 @@ class Index
 {
     public function index()
     {
-        echo "<pre>";var_dump($_SERVER);exit;
+        echo "<pre>";var_dump($_SERVER);exit;//yyhadd
 
     }
 }
